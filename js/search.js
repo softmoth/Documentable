@@ -157,11 +157,11 @@ $(function(){
 ,
 { category: "class", value: "Documentable::DocPage::Index::Programs", url: "/type/Documentable::DocPage::Index::Programs" }
 ,
-{ category: "class", value: "Documentable::Secondary", url: "/type/Documentable::Secondary" }
-,
 { category: "class", value: "Documentable::Index", url: "/type/Documentable::Index" }
 ,
 { category: "class", value: "Documentable::Search", url: "/type/Documentable::Search" }
+,
+{ category: "class", value: "Documentable::Secondary", url: "/type/Documentable::Secondary" }
 ,
 { category: "class", value: "Documentable::DocPage::Factory", url: "/type/Documentable::DocPage::Factory" }
 ,
@@ -169,15 +169,15 @@ $(function(){
 ,
 { category: "class", value: "Documentable::To::HTML::Wrapper", url: "/type/Documentable::To::HTML::Wrapper" }
 ,
+{ category: "Language", value: "Configuration file", url: "/language/configuration-file" }
+,
 { category: "Language", value: "Perl6 Highlighter", url: "/language/highlighting" }
 ,
-{ category: "Language", value: "Configuration file", url: "/language/configuration-file" }
+{ category: "Language", value: "Pod6 Format", url: "/language/document-format" }
 ,
 { category: "Language", value: "Command line interface", url: "/language/cli" }
 ,
 { category: "Language", value: "TypeGraph representations", url: "/language/typegraph" }
-,
-{ category: "Language", value: "Pod6 Format", url: "/language/document-format" }
 ,
 { category: "Routine", value: "BUILD", url: "/routine/BUILD" }
 ,
