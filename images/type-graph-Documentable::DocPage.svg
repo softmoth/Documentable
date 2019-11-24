@@ -5,168 +5,168 @@
  -->
 <!-- Title: perl6&#45;type&#45;graph Pages: 1 -->
 <svg width="4016pt" height="116pt"
- viewBox="0.00 0.00 4015.82 116.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 4016.31 116.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 112)">
 <title>perl6&#45;type&#45;graph</title>
-<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-112 4011.8195,-112 4011.8195,4 -4,4"/>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-112 4012.3143,-112 4012.3143,4 -4,4"/>
 <!-- Documentable::DocPage -->
 <g id="node1" class="node">
 <title>Documentable::DocPage</title>
 <g id="a_node1"><a xlink:href="/type/Documentable::DocPage" xlink:title="Documentable::DocPage">
-<ellipse fill="none" stroke="#6666ff" cx="1977.0352" cy="-90" rx="113.18" ry="18"/>
-<text text-anchor="middle" x="1977.0352" y="-86.3" font-family="FreeSans" font-size="14.00" fill="#6666ff">Documentable::DocPage</text>
+<ellipse fill="none" stroke="#6666ff" cx="2028.0317" cy="-90" rx="113.18" ry="18"/>
+<text text-anchor="middle" x="2028.0317" y="-86.3" font-family="FreeSans" font-size="14.00" fill="#6666ff">Documentable::DocPage</text>
 </a>
 </g>
-</g>
-<!-- Documentable::DocPage::Secondary -->
-<g id="node2" class="node">
-<title>Documentable::DocPage::Secondary</title>
-<g id="a_node2"><a xlink:href="/type/Documentable::DocPage::Secondary" xlink:title="Documentable::DocPage::Secondary">
-<ellipse fill="none" stroke="#000000" cx="167.0352" cy="-18" rx="167.0704" ry="18"/>
-<text text-anchor="middle" x="167.0352" y="-14.3" font-family="FreeSans" font-size="14.00" fill="#000000">Documentable::DocPage::Secondary</text>
-</a>
-</g>
-</g>
-<!-- Documentable::DocPage::Secondary&#45;&gt;Documentable::DocPage -->
-<g id="edge1" class="edge">
-<title>Documentable::DocPage::Secondary&#45;&gt;Documentable::DocPage</title>
-<path fill="none" stroke="#000000" d="M288.3124,-30.4034C318.7981,-33.5212 343.0352,-36 343.0352,-36 343.0352,-36 1477.4624,-73.4903 1855.8506,-85.9951"/>
-<polygon fill="#000000" stroke="#000000" points="1855.8982,-89.4985 1866.0084,-86.3308 1856.1294,-82.5023 1855.8982,-89.4985"/>
-</g>
-<!-- Documentable::DocPage::Index::Language -->
-<g id="node3" class="node">
-<title>Documentable::DocPage::Index::Language</title>
-<g id="a_node3"><a xlink:href="/type/Documentable::DocPage::Index::Language" xlink:title="Documentable::DocPage::Index::Language">
-<ellipse fill="none" stroke="#000000" cx="548.0352" cy="-18" rx="196.0654" ry="18"/>
-<text text-anchor="middle" x="548.0352" y="-14.3" font-family="FreeSans" font-size="14.00" fill="#000000">Documentable::DocPage::Index::Language</text>
-</a>
-</g>
-</g>
-<!-- Documentable::DocPage::Index::Language&#45;&gt;Documentable::DocPage -->
-<g id="edge2" class="edge">
-<title>Documentable::DocPage::Index::Language&#45;&gt;Documentable::DocPage</title>
-<path fill="none" stroke="#000000" d="M689.8557,-30.4525C725.1009,-33.5472 753.0352,-36 753.0352,-36 753.0352,-36 1549.6797,-71.1461 1857.5751,-84.7297"/>
-<polygon fill="#000000" stroke="#000000" points="1857.7307,-88.2399 1867.8753,-85.1841 1858.0393,-81.2467 1857.7307,-88.2399"/>
-</g>
-<!-- Documentable::DocPage::Index::Routine -->
-<g id="node4" class="node">
-<title>Documentable::DocPage::Index::Routine</title>
-<g id="a_node4"><a xlink:href="/type/Documentable::DocPage::Index::Routine" xlink:title="Documentable::DocPage::Index::Routine">
-<ellipse fill="none" stroke="#000000" cx="953.0352" cy="-18" rx="191.1661" ry="18"/>
-<text text-anchor="middle" x="953.0352" y="-14.3" font-family="FreeSans" font-size="14.00" fill="#000000">Documentable::DocPage::Index::Routine</text>
-</a>
-</g>
-</g>
-<!-- Documentable::DocPage::Index::Routine&#45;&gt;Documentable::DocPage -->
-<g id="edge3" class="edge">
-<title>Documentable::DocPage::Index::Routine&#45;&gt;Documentable::DocPage</title>
-<path fill="none" stroke="#000000" d="M1091.3966,-30.4525C1125.7822,-33.5472 1153.0352,-36 1153.0352,-36 1153.0352,-36 1635.3822,-67.6101 1861.9922,-82.4608"/>
-<polygon fill="#000000" stroke="#000000" points="1862.0494,-85.9719 1872.2569,-83.1335 1862.5072,-78.9869 1862.0494,-85.9719"/>
 </g>
 <!-- Documentable::DocPage::Primary::Language -->
-<g id="node5" class="node">
+<g id="node2" class="node">
 <title>Documentable::DocPage::Primary::Language</title>
-<g id="a_node5"><a xlink:href="/type/Documentable::DocPage::Primary::Language" xlink:title="Documentable::DocPage::Primary::Language">
-<ellipse fill="none" stroke="#000000" cx="1368.0352" cy="-18" rx="206.0634" ry="18"/>
-<text text-anchor="middle" x="1368.0352" y="-14.3" font-family="FreeSans" font-size="14.00" fill="#000000">Documentable::DocPage::Primary::Language</text>
+<g id="a_node2"><a xlink:href="/type/Documentable::DocPage::Primary::Language" xlink:title="Documentable::DocPage::Primary::Language">
+<ellipse fill="none" stroke="#000000" cx="206.0317" cy="-18" rx="206.0634" ry="18"/>
+<text text-anchor="middle" x="206.0317" y="-14.3" font-family="FreeSans" font-size="14.00" fill="#000000">Documentable::DocPage::Primary::Language</text>
 </a>
 </g>
 </g>
 <!-- Documentable::DocPage::Primary::Language&#45;&gt;Documentable::DocPage -->
-<g id="edge4" class="edge">
+<g id="edge1" class="edge">
 <title>Documentable::DocPage::Primary::Language&#45;&gt;Documentable::DocPage</title>
-<path fill="none" stroke="#000000" d="M1490.5428,-32.4837C1603.7702,-45.8701 1770.0268,-65.5261 1875.8873,-78.0416"/>
-<polygon fill="#000000" stroke="#000000" points="1875.5977,-81.5317 1885.9395,-79.2301 1876.4196,-74.5801 1875.5977,-81.5317"/>
-</g>
-<!-- Documentable::DocPage::Primary::Type -->
-<g id="node6" class="node">
-<title>Documentable::DocPage::Primary::Type</title>
-<g id="a_node6"><a xlink:href="/type/Documentable::DocPage::Primary::Type" xlink:title="Documentable::DocPage::Primary::Type">
-<ellipse fill="none" stroke="#000000" cx="1779.0352" cy="-18" rx="186.5669" ry="18"/>
-<text text-anchor="middle" x="1779.0352" y="-14.3" font-family="FreeSans" font-size="14.00" fill="#000000">Documentable::DocPage::Primary::Type</text>
-</a>
-</g>
-</g>
-<!-- Documentable::DocPage::Primary::Type&#45;&gt;Documentable::DocPage -->
-<g id="edge5" class="edge">
-<title>Documentable::DocPage::Primary::Type&#45;&gt;Documentable::DocPage</title>
-<path fill="none" stroke="#000000" d="M1826.9655,-35.4292C1855.6755,-45.8692 1892.2765,-59.1787 1922.1444,-70.0397"/>
-<polygon fill="#000000" stroke="#000000" points="1920.9926,-73.3451 1931.5867,-73.4733 1923.3849,-66.7665 1920.9926,-73.3451"/>
+<path fill="none" stroke="#000000" d="M355.0635,-30.4771C391.8896,-33.5602 421.0317,-36 421.0317,-36 421.0317,-36 1533.4767,-73.3815 1907.2241,-85.9405"/>
+<polygon fill="#000000" stroke="#000000" points="1907.1473,-89.4398 1917.2593,-86.2777 1907.3825,-82.4438 1907.1473,-89.4398"/>
 </g>
 <!-- Documentable::DocPage::SubIndex::Type -->
-<g id="node7" class="node">
+<g id="node3" class="node">
 <title>Documentable::DocPage::SubIndex::Type</title>
-<g id="a_node7"><a xlink:href="/type/Documentable::DocPage::SubIndex::Type" xlink:title="Documentable::DocPage::SubIndex::Type">
-<ellipse fill="none" stroke="#000000" cx="2175.0352" cy="-18" rx="191.1661" ry="18"/>
-<text text-anchor="middle" x="2175.0352" y="-14.3" font-family="FreeSans" font-size="14.00" fill="#000000">Documentable::DocPage::SubIndex::Type</text>
+<g id="a_node3"><a xlink:href="/type/Documentable::DocPage::SubIndex::Type" xlink:title="Documentable::DocPage::SubIndex::Type">
+<ellipse fill="none" stroke="#000000" cx="621.0317" cy="-18" rx="191.1661" ry="18"/>
+<text text-anchor="middle" x="621.0317" y="-14.3" font-family="FreeSans" font-size="14.00" fill="#000000">Documentable::DocPage::SubIndex::Type</text>
 </a>
 </g>
 </g>
 <!-- Documentable::DocPage::SubIndex::Type&#45;&gt;Documentable::DocPage -->
-<g id="edge6" class="edge">
+<g id="edge2" class="edge">
 <title>Documentable::DocPage::SubIndex::Type&#45;&gt;Documentable::DocPage</title>
-<path fill="none" stroke="#000000" d="M2127.1049,-35.4292C2098.3948,-45.8692 2061.7939,-59.1787 2031.9259,-70.0397"/>
-<polygon fill="#000000" stroke="#000000" points="2030.6855,-66.7665 2022.4837,-73.4733 2033.0777,-73.3451 2030.6855,-66.7665"/>
+<path fill="none" stroke="#000000" d="M759.3932,-30.4525C793.7788,-33.5472 821.0317,-36 821.0317,-36 821.0317,-36 1604.2628,-71.041 1908.8648,-84.6686"/>
+<polygon fill="#000000" stroke="#000000" points="1908.9103,-88.174 1919.0568,-85.1246 1909.2232,-81.181 1908.9103,-88.174"/>
+</g>
+<!-- Documentable::DocPage::Secondary -->
+<g id="node4" class="node">
+<title>Documentable::DocPage::Secondary</title>
+<g id="a_node4"><a xlink:href="/type/Documentable::DocPage::Secondary" xlink:title="Documentable::DocPage::Secondary">
+<ellipse fill="none" stroke="#000000" cx="997.0317" cy="-18" rx="167.0704" ry="18"/>
+<text text-anchor="middle" x="997.0317" y="-14.3" font-family="FreeSans" font-size="14.00" fill="#000000">Documentable::DocPage::Secondary</text>
+</a>
+</g>
+</g>
+<!-- Documentable::DocPage::Secondary&#45;&gt;Documentable::DocPage -->
+<g id="edge3" class="edge">
+<title>Documentable::DocPage::Secondary&#45;&gt;Documentable::DocPage</title>
+<path fill="none" stroke="#000000" d="M1118.309,-30.4034C1148.7947,-33.5212 1173.0317,-36 1173.0317,-36 1173.0317,-36 1679.0725,-67.9605 1912.5347,-82.7055"/>
+<polygon fill="#000000" stroke="#000000" points="1912.5628,-86.2141 1922.7635,-83.3515 1913.004,-79.228 1912.5628,-86.2141"/>
 </g>
 <!-- Documentable::DocPage::Primary::Programs -->
-<g id="node8" class="node">
+<g id="node5" class="node">
 <title>Documentable::DocPage::Primary::Programs</title>
-<g id="a_node8"><a xlink:href="/type/Documentable::DocPage::Primary::Programs" xlink:title="Documentable::DocPage::Primary::Programs">
-<ellipse fill="none" stroke="#000000" cx="2590.0352" cy="-18" rx="206.0634" ry="18"/>
-<text text-anchor="middle" x="2590.0352" y="-14.3" font-family="FreeSans" font-size="14.00" fill="#000000">Documentable::DocPage::Primary::Programs</text>
+<g id="a_node5"><a xlink:href="/type/Documentable::DocPage::Primary::Programs" xlink:title="Documentable::DocPage::Primary::Programs">
+<ellipse fill="none" stroke="#000000" cx="1388.0317" cy="-18" rx="206.0634" ry="18"/>
+<text text-anchor="middle" x="1388.0317" y="-14.3" font-family="FreeSans" font-size="14.00" fill="#000000">Documentable::DocPage::Primary::Programs</text>
 </a>
 </g>
 </g>
 <!-- Documentable::DocPage::Primary::Programs&#45;&gt;Documentable::DocPage -->
-<g id="edge7" class="edge">
+<g id="edge4" class="edge">
 <title>Documentable::DocPage::Primary::Programs&#45;&gt;Documentable::DocPage</title>
-<path fill="none" stroke="#000000" d="M2466.7229,-32.4837C2352.5825,-45.89 2184.9058,-65.5845 2078.3728,-78.0974"/>
-<polygon fill="#000000" stroke="#000000" points="2077.7813,-74.6427 2068.2579,-79.2854 2078.5979,-81.5949 2077.7813,-74.6427"/>
+<path fill="none" stroke="#000000" d="M1514.4751,-32.2249C1634.7601,-45.7569 1813.4902,-65.8641 1925.2552,-78.4376"/>
+<polygon fill="#000000" stroke="#000000" points="1925.1944,-81.9528 1935.523,-79.5928 1925.977,-74.9967 1925.1944,-81.9528"/>
 </g>
 <!-- Documentable::DocPage::SubIndex::Routine -->
-<g id="node9" class="node">
+<g id="node6" class="node">
 <title>Documentable::DocPage::SubIndex::Routine</title>
-<g id="a_node9"><a xlink:href="/type/Documentable::DocPage::SubIndex::Routine" xlink:title="Documentable::DocPage::SubIndex::Routine">
-<ellipse fill="none" stroke="#000000" cx="3020.0352" cy="-18" rx="206.0634" ry="18"/>
-<text text-anchor="middle" x="3020.0352" y="-14.3" font-family="FreeSans" font-size="14.00" fill="#000000">Documentable::DocPage::SubIndex::Routine</text>
+<g id="a_node6"><a xlink:href="/type/Documentable::DocPage::SubIndex::Routine" xlink:title="Documentable::DocPage::SubIndex::Routine">
+<ellipse fill="none" stroke="#000000" cx="1818.0317" cy="-18" rx="206.0634" ry="18"/>
+<text text-anchor="middle" x="1818.0317" y="-14.3" font-family="FreeSans" font-size="14.00" fill="#000000">Documentable::DocPage::SubIndex::Routine</text>
 </a>
 </g>
 </g>
 <!-- Documentable::DocPage::SubIndex::Routine&#45;&gt;Documentable::DocPage -->
-<g id="edge8" class="edge">
+<g id="edge5" class="edge">
 <title>Documentable::DocPage::SubIndex::Routine&#45;&gt;Documentable::DocPage</title>
-<path fill="none" stroke="#000000" d="M2871.0034,-30.4771C2834.1773,-33.5602 2805.0352,-36 2805.0352,-36 2805.0352,-36 2319.7372,-67.6499 2092.2075,-82.4888"/>
-<polygon fill="#000000" stroke="#000000" points="2091.6529,-79.0174 2081.902,-83.1609 2092.1086,-86.0026 2091.6529,-79.0174"/>
+<path fill="none" stroke="#000000" d="M1869.135,-35.5211C1899.8321,-46.0458 1938.9612,-59.4615 1970.7081,-70.3462"/>
+<polygon fill="#000000" stroke="#000000" points="1969.7115,-73.7044 1980.3061,-73.6369 1971.9818,-67.0828 1969.7115,-73.7044"/>
 </g>
-<!-- Documentable::DocPage::Index::Programs -->
-<g id="node10" class="node">
-<title>Documentable::DocPage::Index::Programs</title>
-<g id="a_node10"><a xlink:href="/type/Documentable::DocPage::Index::Programs" xlink:title="Documentable::DocPage::Index::Programs">
-<ellipse fill="none" stroke="#000000" cx="3440.0352" cy="-18" rx="196.0654" ry="18"/>
-<text text-anchor="middle" x="3440.0352" y="-14.3" font-family="FreeSans" font-size="14.00" fill="#000000">Documentable::DocPage::Index::Programs</text>
+<!-- Documentable::DocPage::Index::Language -->
+<g id="node7" class="node">
+<title>Documentable::DocPage::Index::Language</title>
+<g id="a_node7"><a xlink:href="/type/Documentable::DocPage::Index::Language" xlink:title="Documentable::DocPage::Index::Language">
+<ellipse fill="none" stroke="#000000" cx="2238.0317" cy="-18" rx="196.0654" ry="18"/>
+<text text-anchor="middle" x="2238.0317" y="-14.3" font-family="FreeSans" font-size="14.00" fill="#000000">Documentable::DocPage::Index::Language</text>
 </a>
 </g>
 </g>
-<!-- Documentable::DocPage::Index::Programs&#45;&gt;Documentable::DocPage -->
-<g id="edge9" class="edge">
-<title>Documentable::DocPage::Index::Programs&#45;&gt;Documentable::DocPage</title>
-<path fill="none" stroke="#000000" d="M3298.2147,-30.4525C3262.9695,-33.5472 3235.0352,-36 3235.0352,-36 3235.0352,-36 2410.5407,-71.3917 2096.5211,-84.871"/>
-<polygon fill="#000000" stroke="#000000" points="2096.3144,-81.3766 2086.4738,-85.3023 2096.6147,-88.3701 2096.3144,-81.3766"/>
+<!-- Documentable::DocPage::Index::Language&#45;&gt;Documentable::DocPage -->
+<g id="edge6" class="edge">
+<title>Documentable::DocPage::Index::Language&#45;&gt;Documentable::DocPage</title>
+<path fill="none" stroke="#000000" d="M2187.1966,-35.4292C2156.5047,-45.9521 2117.3102,-59.3902 2085.4958,-70.298"/>
+<polygon fill="#000000" stroke="#000000" points="2084.2012,-67.0418 2075.8769,-73.5959 2086.4715,-73.6634 2084.2012,-67.0418"/>
 </g>
 <!-- Documentable::DocPage::Index::Type -->
-<g id="node11" class="node">
+<g id="node8" class="node">
 <title>Documentable::DocPage::Index::Type</title>
-<g id="a_node11"><a xlink:href="/type/Documentable::DocPage::Index::Type" xlink:title="Documentable::DocPage::Index::Type">
-<ellipse fill="none" stroke="#000000" cx="3831.0352" cy="-18" rx="176.5689" ry="18"/>
-<text text-anchor="middle" x="3831.0352" y="-14.3" font-family="FreeSans" font-size="14.00" fill="#000000">Documentable::DocPage::Index::Type</text>
+<g id="a_node8"><a xlink:href="/type/Documentable::DocPage::Index::Type" xlink:title="Documentable::DocPage::Index::Type">
+<ellipse fill="none" stroke="#000000" cx="2629.0317" cy="-18" rx="176.5689" ry="18"/>
+<text text-anchor="middle" x="2629.0317" y="-14.3" font-family="FreeSans" font-size="14.00" fill="#000000">Documentable::DocPage::Index::Type</text>
 </a>
 </g>
 </g>
 <!-- Documentable::DocPage::Index::Type&#45;&gt;Documentable::DocPage -->
-<g id="edge10" class="edge">
+<g id="edge7" class="edge">
 <title>Documentable::DocPage::Index::Type&#45;&gt;Documentable::DocPage</title>
-<path fill="none" stroke="#000000" d="M3702.8672,-30.4034C3670.6493,-33.5212 3645.0352,-36 3645.0352,-36 3645.0352,-36 2481.7177,-73.6614 2098.1121,-86.0802"/>
-<polygon fill="#000000" stroke="#000000" points="2097.9745,-82.5828 2088.0931,-86.4046 2098.2011,-89.5791 2097.9745,-82.5828"/>
+<path fill="none" stroke="#000000" d="M2514.219,-31.7546C2402.6581,-45.1196 2234.9418,-65.2121 2128.5236,-77.961"/>
+<polygon fill="#000000" stroke="#000000" points="2127.933,-74.5067 2118.4203,-79.1714 2128.7657,-81.457 2127.933,-74.5067"/>
+</g>
+<!-- Documentable::DocPage::Index::Routine -->
+<g id="node9" class="node">
+<title>Documentable::DocPage::Index::Routine</title>
+<g id="a_node9"><a xlink:href="/type/Documentable::DocPage::Index::Routine" xlink:title="Documentable::DocPage::Index::Routine">
+<ellipse fill="none" stroke="#000000" cx="3015.0317" cy="-18" rx="191.1661" ry="18"/>
+<text text-anchor="middle" x="3015.0317" y="-14.3" font-family="FreeSans" font-size="14.00" fill="#000000">Documentable::DocPage::Index::Routine</text>
+</a>
+</g>
+</g>
+<!-- Documentable::DocPage::Index::Routine&#45;&gt;Documentable::DocPage -->
+<g id="edge8" class="edge">
+<title>Documentable::DocPage::Index::Routine&#45;&gt;Documentable::DocPage</title>
+<path fill="none" stroke="#000000" d="M2876.6702,-30.4525C2842.2847,-33.5472 2815.0317,-36 2815.0317,-36 2815.0317,-36 2360.5675,-67.1831 2142.3434,-82.1565"/>
+<polygon fill="#000000" stroke="#000000" points="2141.87,-78.6807 2132.1331,-82.8571 2142.3492,-85.6642 2141.87,-78.6807"/>
+</g>
+<!-- Documentable::DocPage::Primary::Type -->
+<g id="node10" class="node">
+<title>Documentable::DocPage::Primary::Type</title>
+<g id="a_node10"><a xlink:href="/type/Documentable::DocPage::Primary::Type" xlink:title="Documentable::DocPage::Primary::Type">
+<ellipse fill="none" stroke="#000000" cx="3411.0317" cy="-18" rx="186.5669" ry="18"/>
+<text text-anchor="middle" x="3411.0317" y="-14.3" font-family="FreeSans" font-size="14.00" fill="#000000">Documentable::DocPage::Primary::Type</text>
+</a>
+</g>
+</g>
+<!-- Documentable::DocPage::Primary::Type&#45;&gt;Documentable::DocPage -->
+<g id="edge9" class="edge">
+<title>Documentable::DocPage::Primary::Type&#45;&gt;Documentable::DocPage</title>
+<path fill="none" stroke="#000000" d="M3275.7051,-30.428C3241.8811,-33.5342 3215.0317,-36 3215.0317,-36 3215.0317,-36 2447.5461,-70.9151 2146.8444,-84.5949"/>
+<polygon fill="#000000" stroke="#000000" points="2146.6113,-81.1018 2136.7807,-85.0527 2146.9295,-88.0945 2146.6113,-81.1018"/>
+</g>
+<!-- Documentable::DocPage::Index::Programs -->
+<g id="node11" class="node">
+<title>Documentable::DocPage::Index::Programs</title>
+<g id="a_node11"><a xlink:href="/type/Documentable::DocPage::Index::Programs" xlink:title="Documentable::DocPage::Index::Programs">
+<ellipse fill="none" stroke="#000000" cx="3812.0317" cy="-18" rx="196.0654" ry="18"/>
+<text text-anchor="middle" x="3812.0317" y="-14.3" font-family="FreeSans" font-size="14.00" fill="#000000">Documentable::DocPage::Index::Programs</text>
+</a>
+</g>
+</g>
+<!-- Documentable::DocPage::Index::Programs&#45;&gt;Documentable::DocPage -->
+<g id="edge10" class="edge">
+<title>Documentable::DocPage::Index::Programs&#45;&gt;Documentable::DocPage</title>
+<path fill="none" stroke="#000000" d="M3670.2112,-30.4525C3634.966,-33.5472 3607.0317,-36 3607.0317,-36 3607.0317,-36 2518.3172,-73.2328 2148.9361,-85.8652"/>
+<polygon fill="#000000" stroke="#000000" points="2148.6244,-82.3737 2138.75,-86.2136 2148.8638,-89.3696 2148.6244,-82.3737"/>
 </g>
 </g>
 </svg>
