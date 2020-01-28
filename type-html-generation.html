@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
     <head>
-        <title>Raku basic Types</title>
+        <title>Raku html-generation Types</title>
         <meta charset="UTF-8" />
         <style>
         kbd { font-family: "Droid Sans Mono", "Luxi Mono", "Inconsolata", monospace }
@@ -65,13 +65,13 @@
 <div id="content" class="pretty-box yellow content_fragment">
   
 
-    <h1 class='title'>Raku basic Types</h1>
+    <h1 class='title'>Raku html-generation Types</h1>
     
     
     <div class="pod-body no-toc">
     <table class="pod-table">
 <tbody>
-<tr> <td>class</td> <td><a href="/type/Documentable">Documentable</a></td> <td>Represents a self-contained Perl 6 documentation element.</td> </tr> <tr> <td>class</td> <td><a href="/type/Documentable::Config">Documentable::Config</a></td> <td>Configuration</td> </tr> <tr> <td>grammar</td> <td><a href="/type/Documentable::Heading::Grammar">Documentable::Heading::Grammar</a></td> <td>Grammar to obtain metadata from headings</td> </tr> <tr> <td>class</td> <td><a href="/type/Documentable::Index">Documentable::Index</a></td> <td>Reference container</td> </tr> <tr> <td>class</td> <td><a href="/type/Documentable::Primary">Documentable::Primary</a></td> <td>Represents a self-contained Perl 6 documentation element.</td> </tr> <tr> <td>class</td> <td><a href="/type/Documentable::Registry">Documentable::Registry</a></td> <td>Container of all our knowledge.</td> </tr> <tr> <td>class</td> <td><a href="/type/Documentable::Secondary">Documentable::Secondary</a></td> <td>Represents a self-contained Perl 6 documentation element.</td> </tr> <tr> <td>enum</td> <td><a href="/type/Kind">Kind</a></td> <td>Information about the origin of a Documentable instance.</td> </tr>
+<tr> <td>role</td> <td><a href="/type/Documentable::DocPage">Documentable::DocPage</a></td> <td><em>Pod to be rendered and its url</em></td> </tr> <tr> <td>class</td> <td><a href="/type/Documentable::DocPage::Factory">Documentable::DocPage::Factory</a></td> <td>Generator of HTML pages</td> </tr> <tr> <td>class</td> <td><a href="/type/Documentable::DocPage::Index::Language">Documentable::DocPage::Index::Language</a></td> <td>Renders the index associated to Kind::Language</td> </tr> <tr> <td>class</td> <td><a href="/type/Documentable::DocPage::Index::Programs">Documentable::DocPage::Index::Programs</a></td> <td>Renders the index associated to Kind::Programs</td> </tr> <tr> <td>class</td> <td><a href="/type/Documentable::DocPage::Index::Routine">Documentable::DocPage::Index::Routine</a></td> <td>Renders the index associated to Kind::Routine</td> </tr> <tr> <td>class</td> <td><a href="/type/Documentable::DocPage::Index::Type">Documentable::DocPage::Index::Type</a></td> <td>Renders the index associated to Kind::Type</td> </tr> <tr> <td>class</td> <td><a href="/type/Documentable::DocPage::Primary::Language">Documentable::DocPage::Primary::Language</a></td> <td>Renders a Documentable::Primary object</td> </tr> <tr> <td>class</td> <td><a href="/type/Documentable::DocPage::Primary::Programs">Documentable::DocPage::Primary::Programs</a></td> <td>Renders a Documentable::Primary object</td> </tr> <tr> <td>class</td> <td><a href="/type/Documentable::DocPage::Primary::Type">Documentable::DocPage::Primary::Type</a></td> <td>Renders a Documentable::Primary object</td> </tr> <tr> <td>class</td> <td><a href="/type/Documentable::DocPage::Secondary">Documentable::DocPage::Secondary</a></td> <td>Renders a bunch of Documentable::Secondary objects</td> </tr> <tr> <td>class</td> <td><a href="/type/Documentable::DocPage::SubIndex::Routine">Documentable::DocPage::SubIndex::Routine</a></td> <td>Renders the index associated to Kind::Routine and a category</td> </tr> <tr> <td>class</td> <td><a href="/type/Documentable::DocPage::SubIndex::Type">Documentable::DocPage::SubIndex::Type</a></td> <td>Renders the index associated to Kind::Type and a category</td> </tr> <tr> <td>class</td> <td><a href="/type/Documentable::Search">Documentable::Search</a></td> <td>Search entries generator.</td> </tr> <tr> <td>class</td> <td><a href="/type/Documentable::To::HTML::Wrapper">Documentable::To::HTML::Wrapper</a></td> <td>HTML wrapper common to all pages</td> </tr>
 </tbody>
 </table>
     </div>
