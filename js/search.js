@@ -145,12 +145,6 @@ $(function(){
 ,
 { category: "class", value: "Documentable::Registry", url: "/Documentable/type/Documentable::Registry" }
 ,
-{ category: "class", value: "Documentable::Search", url: "/Documentable/type/Documentable::Search" }
-,
-{ category: "class", value: "Documentable::Index", url: "/Documentable/type/Documentable::Index" }
-,
-{ category: "class", value: "Documentable::Secondary", url: "/Documentable/type/Documentable::Secondary" }
-,
 { category: "class", value: "Documentable::Primary", url: "/Documentable/type/Documentable::Primary" }
 ,
 { category: "class", value: "X::Documentable::TitleNotFound", url: "/Documentable/type/X::Documentable::TitleNotFound" }
@@ -160,6 +154,12 @@ $(function(){
 { category: "class", value: "X::Documentable::MissingMetadata", url: "/Documentable/type/X::Documentable::MissingMetadata" }
 ,
 { category: "class", value: "X::Documentable::TypeNotFound", url: "/Documentable/type/X::Documentable::TypeNotFound" }
+,
+{ category: "class", value: "Documentable::Search", url: "/Documentable/type/Documentable::Search" }
+,
+{ category: "class", value: "Documentable::Index", url: "/Documentable/type/Documentable::Index" }
+,
+{ category: "class", value: "Documentable::Secondary", url: "/Documentable/type/Documentable::Secondary" }
 ,
 { category: "class", value: "Documentable::Config", url: "/Documentable/type/Documentable::Config" }
 ,
@@ -171,13 +171,13 @@ $(function(){
 ,
 { category: "Language", value: "Configuration file", url: "/Documentable/language/configuration-file" }
 ,
-{ category: "Language", value: "TypeGraph representations", url: "/Documentable/language/typegraph" }
+{ category: "Language", value: "Command line interface", url: "/Documentable/language/cli" }
 ,
 { category: "Language", value: "Pod6 Format", url: "/Documentable/language/document-format" }
 ,
 { category: "Language", value: "Perl6 Highlighter", url: "/Documentable/language/highlighting" }
 ,
-{ category: "Language", value: "Command line interface", url: "/Documentable/language/cli" }
+{ category: "Language", value: "TypeGraph representations", url: "/Documentable/language/typegraph" }
 ,
 { category: "Routine", value: "BUILD", url: "/Documentable/routine/BUILD" }
 ,
