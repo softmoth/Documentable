@@ -11,7 +11,7 @@
     "@antoniogamiz",
     "@JJ"
   ],
-  "auth": "github:perl6",
+  "auth": "github:raku",
   "depends": [
     "Pod::Load:ver<0.5.4+>",
     "Pod::To::HTML:ver<0.6.2+>",
@@ -27,10 +27,7 @@
     "File::Directory::Tree"
   ],
   "build-depends": [],
-  "test-depends": [
-    "Test::META:ver<0.0.16+>",
-    "Temp::Path"
-  ],
+  "test-depends": ["Test::META:ver<0.0.16+>", "Temp::Path"],
   "provides": {
     "Documentable": "lib/Documentable.pm6",
     "Documentable::CLI": "lib/Documentable/CLI.pm6",
@@ -60,11 +57,7 @@
     "config.json"
   ],
   "license": "Artistic-2.0",
-  "tags": [
-    "documentation",
-    "text",
-    "perl6"
-  ],
+  "tags": ["documentation", "text", "raku"],
   "api": 1,
-  "source-url": "https://github.com/perl6/Documentable.git"
+  "source-url": "https://github.com/raku/Documentable.git"
 }
