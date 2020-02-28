@@ -9,13 +9,30 @@ my $registry = Documentable::Registry.new(
     :dirs(["Programs", "Native"]),
     :verbose(False),
 );
-$registry.compose;
-say "Composed";
+
+subtest "Processing pod dir" => {
+    my @documents = ("Debugging", "Reading", "int", "pod1", "pod2");
+    is-deeply $registry.documentables.map({.name}).sort.Array,
+              @documents,
+              "All pods have been processed";
+}
+
 subtest "Composing" => {
+    $registry.compose;
+
+    my @documents = ("Debugging", "Reading", "int", "pod1", "pod2");
     is $registry.composed, True, "Composed set to True";
-    is-deeply $registry.documentables.map({.name}).sort,
-              ("Debugging", "Reading", "int", "pod1", "pod2"),
-              "Composing docs";
+    my @definitions = ("ACCEPTS", "any", "mro", "new reference", "root");
+    my @references = ("aa", "meta (multi)", "nometa", "part", "url");
+    is-deeply $registry.definitions.map({.name}).sort.Array,
+              @definitions,
+              "All definitions has been found";
+    is-deeply $registry.references.map({.name}).sort.Array,
+              @references,
+              "All references has been found";
+    is-deeply $registry.docs.map({.name}).sort,
+              (@documents,@definitions,@references).flat.sort,
+              "All references has been found";
 }
 
 subtest "Lookup by kind" => {
