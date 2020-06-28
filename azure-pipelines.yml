@@ -20,5 +20,7 @@ steps:
       call %cd%\rakudo-2020.06\scripts\set-env.bat
       set PATH=%cd%\release\bin\;%PATH%
       zef install --/test --deps-only .
-      zef test  .
+      zef test --verbose .
+      zef install --/test .
+      prove6 -v t
     displayName: "Run tests"
