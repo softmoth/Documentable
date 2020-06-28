@@ -16,11 +16,11 @@ steps:
       curl https://graphviz.gitlab.io/_pages/Download/windows/graphviz-2.38.zip --output graphviz.zip
       7z x graphviz.zip
     displayName: "Install native dependencies"
-  - displayName: "Run tests"
-    script: |
+  - script: |
       call %cd%\rakudo-2020.06\scripts\set-env.bat
       set PATH=%cd%\release\bin\;%PATH%
       zef install --/test --deps-only .
       zef test --verbose .
       zef install --/test .
       prove6 -v t
+    displayName: "Run tests & install module"
