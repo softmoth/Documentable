@@ -17,10 +17,15 @@ steps:
       7z x graphviz.zip
     displayName: "Install native dependencies"
   - script: |
+      echo on
       call %cd%\rakudo-2020.06\scripts\set-env.bat
       set PATH=%cd%\release\bin\;%PATH%
       zef install --/test --deps-only .
+      @echo "EXIT CODE[zef deps]" %errorlevel%
       zef test --verbose .
+      @echo "EXIT CODE[zef test]" %errorlevel%
       zef install --/test .
+      @echo "EXIT CODE[zef install]" %errorlevel%
       prove6 -v t
+      @echo "EXIT CODE[prove6]" %errorlevel%
     displayName: "Run tests & install module"
